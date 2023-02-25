@@ -1,4 +1,4 @@
-#Ce dossier contient tous mes projets programmés en Python. 
+# Ce dossier contient tous mes projets programmés en Python. 
 #Les noms des dossiers sont construits de la manière suivante :
 
 _____________________________________________________
