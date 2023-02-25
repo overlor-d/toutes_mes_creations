@@ -1,0 +1,61 @@
+exadécimal des couleurs
+
+##############################
+couleurs de base
+##############################
+
+noir:000000
+blanc:ffffff
+
+##############################
+personnages
+##############################
+
+----
+langue
+----
+langue 1:DB7093
+
+
+----
+peaux
+----
+couleur peau 1:eecd75
+couleur peau 2:d8aa59
+
+----
+cheveux
+----
+blond 10:ffee00
+blond 11:ffc600
+----
+yeux
+----
+yeux azul clair:00ddff
+
+
+----
+vetements
+----
+veste 10:0088ff
+veste 11:004682
+veste villageois 20:6f6f6f
+veste villageois 21:363636
+pijama 10: dbdbdb
+pijama 11: bebebe
+
+----
+ceinture
+----
+boucle jaune:ffee00
+marron clair:6c4f00
+marron foncé:533500
+
+
+----
+chaussure cuir
+----
+chaussure 10: 6c4f00
+chaussure 11: 533500
+
+

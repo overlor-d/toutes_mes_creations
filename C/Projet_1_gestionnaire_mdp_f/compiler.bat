@@ -1,0 +1,1 @@
+g++ -o gestionnaire_mdp corps.cpp

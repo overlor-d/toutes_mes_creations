@@ -1,0 +1,3 @@
+cd H:\Jean\projets_ovr\Python\Projet_1_gestionnaire_nf\Code
+
+pyinstaller.exe --hidden-import PIL --onefile corp.pyw

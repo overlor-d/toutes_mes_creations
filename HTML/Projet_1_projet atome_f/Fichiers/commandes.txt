@@ -1,0 +1,6 @@
+fais moi un site web en html css et javascript avec :
+titre "aspect energétique" avec un effet néon au centre
+Plusieurs images qui défile tout les 10 secondes ou avec des belles flèches
+fais un menu déroulant avec les liens ipertexte vers 5 autres pages web
+en fond fais comme ceci :
+https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/triangles-animation.gif

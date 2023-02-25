@@ -1,0 +1,19 @@
+
+
+dimenssion des cartes :
+
+carte_+2 = 74x112
+carte_+4 = 74x112
+carte_0 = 73x112
+carte_1 = 73x112
+carte_2 = 73x111
+carte_3 = 73x111
+carte_4 = 73x111
+carte_5 = 73x113
+carte_6 = 73x114
+carte_7 = 72x113
+carte_8 = 72x111
+carte_9 = 74x113
+carte_c_c = 74x111
+carte_c_s = 73x114
+carte_c_i = 72x113

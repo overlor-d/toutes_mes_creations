@@ -1,0 +1,3 @@
+redimenssioner une image
+
+self.imagge = pygame.transform.scale(self.image, (50, 50))

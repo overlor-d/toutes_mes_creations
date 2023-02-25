@@ -1,0 +1,22 @@
+elif coordonnee_souris[0] > 100 and coordonnee_souris[1] > 375 and coordonnee_souris[0] < 173 and coordonnee_souris[1] < 487:
+        carte_ = pygame.transform.scale(carte_, (85,122))
+        
+	screen.blit(carte_, (position_carte_[0]-5, position_carte_[1]-5))
+	screen.blit(carte_0, position_carte_0)
+        screen.blit(carte_1, position_carte_1)
+        screen.blit(carte_2, position_carte_2)
+        screen.blit(carte_3, position_carte_3)
+        screen.blit(carte_4, position_carte_4)
+        screen.blit(carte_5, position_carte_5)
+        screen.blit(carte_6, position_carte_6)
+        screen.blit(carte_7, position_carte_7)
+        screen.blit(carte_8, position_carte_8)
+        screen.blit(carte_9, position_carte_9)
+        screen.blit(carte_plus2, position_carte_plus2)
+        screen.blit(carte_plus4, position_carte_plus4)
+        screen.blit(carte_c_c, position_carte_c_c)
+        screen.blit(carte_c_s, position_carte_c_s)
+        screen.blit(carte_s_i, position_carte_s_i)
+	
+
+
